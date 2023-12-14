@@ -5,4 +5,4 @@ const router = Router();
 
 router.use('/products',productrouter)
 
-export default router
+export default router;
